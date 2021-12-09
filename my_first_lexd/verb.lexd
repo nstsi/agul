@@ -1,0 +1,12 @@
+PATTERNS
+VerbRoot VerbInfl
+
+LEXICON VerbRoot
+sing
+walk
+dance
+
+LEXICON VerbInfl
+<v><pres>:
+<v><pres><p3><sg>:s
+

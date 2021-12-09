@@ -1,0 +1,31 @@
+PATTERNS
+NounAbs [<n>:] Abs
+NounObl [<n>:] [<obl>:] (NounInfl) | (NounInflEssive Elative?)
+
+LEXICON NounAbs
+берка # змея
+устул #стул
+
+LEXICON NounObl
+берка:берку # змея
+устул:устулу #стул
+
+LEXICON Abs
+<abs>:
+
+LEXICON NounInfl
+<erg>:ди
+<ins>:хъи
+<dat>:й
+<dat>:лъу
+<sub><lative>:лIи
+<super><lative>:ъо
+<ad><lative>:хо
+
+LEXICON NounInflEssive
+<super><essive>:ъа
+<sub><essive>:лIи
+<ad><essive>:ха
+
+LEXICON Elative
+<elative>:кку
