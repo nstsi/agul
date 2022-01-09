@@ -1,0 +1,6 @@
+Alphabet %<essive%> %<essive%>:0 %<elative%> ;
+
+Rules
+
+"drop <essive> before <elative>"
+%<essive%>:0 <=> _ %<elative%> ;
