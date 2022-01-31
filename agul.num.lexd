@@ -1,0 +1,49 @@
+PATTERNS
+NumRoot|NumRoot2|Ten # 1—10
+TeenInfl NumRoot|NumRoot2 # 11—19
+Twenty # 20
+Forty # 40
+Twenty OddTensInfl CoordNum # первая часть для 30
+NumRoot2 Twenty # 60, 80
+Forty CoordNum  # первая часть для 50
+NumRoot2 Twenty OddTensInfl CoordNum # первая часть для 70, 90
+GrandRoot # сотни и тысячи
+GrandRoot CoordNum # составные числительные
+
+LEXICON NumRoot
+<one>:sa 
+<two>:ʡu
+<five>:ʢafu
+<six>:jerxi
+<seven>:jeri
+<eight>:muja
+<nine>:jarč’ʷa
+
+LEXICON NumRoot2
+<three>:xibu
+<four>:jaq’u
+
+LEXICON Ten
+<ten>:ic’u
+
+LEXICON TeenInfl
+<teen>:c’a
+
+LEXICON Twenty
+<twenty>:qːa
+
+LEXICON Forty
+<forty>:jaχc’ur
+
+LEXICON GrandRoot
+<hundred>:ʢʷerš
+<thousand>:aʁzur
+
+LEXICON CoordNum
+<coord>:꞊na
+
+LEXICON OddTensInfl
+<oddty>:n
+
+#LEXICON CardInfl
+#<card>:
