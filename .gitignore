@@ -1,0 +1,4 @@
+*.att
+*.hfst
+*.hfstol
+examples/
