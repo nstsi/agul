@@ -27,25 +27,3 @@ agul.analyzer.tr.hfst: agul.generator.tr.hfst
 	
 agul.generator.tr.hfst: agul.generator.hfst cy2la.transliterater.hfst
 	hfst-compose $^ -o $@
-	
-# # CREAT AND APPLY TESTS
-# test.pass.txt: tests.csv
-    # awk -F, '$$3 == "pass" {print $$1 ":" $$2}' $^ | sort -u > $@
-	
-# check: agul.generator.hfst test.pass.txt
-    # bash compare.sh $< test.pass.txt
-
-# # CLEANS FILES CREATED DURING THE CHECK
-# test.clean: check
-    # rm test.*
-
-# # REMOVE ALL HFST FILES
-# clean:
-	# rm *.hfst
-	
-clean_some:  check
-	rm *[!i].*.hfst
-	rm test.*
-
-clean:
-	rm *.hfst
