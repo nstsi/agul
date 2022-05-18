@@ -1,49 +1,44 @@
 PATTERNS
 NumRoot|NumRoot2|Ten # 1—10
 TeenInfl NumRoot|NumRoot2 # 11—19
-Twenty # 20
-Forty # 40
-Twenty OddTensInfl CoordNum # первая часть для 30
-NumRoot2 Twenty # 60, 80
-Forty CoordNum  # первая часть для 50
-NumRoot2 Twenty OddTensInfl CoordNum # первая часть для 70, 90
-GrandRoot # сотни и тысячи
-GrandRoot CoordNum # составные числительные
+Twenty|Forty CoordNum? # 20 (something), 40 (something)
+Twenty OddTensInfl CoordNum? # 30 (something)
+NumRoot2 Twenty CoordNum? # 60 (something), 80 (something)
+Forty CoordNum CoordNum? # 50 (something)
+NumRoot2 Twenty OddTensInfl CoordNum? # 70, 90
+GrandRoot CoordNum? # hundreds (something) and thousands (something)
 
 LEXICON NumRoot
-<one>:sa 
-<two>:ʡu
-<five>:ʢafu
-<six>:jerxi
-<seven>:jeri
-<eight>:muja
-<nine>:jarč’ʷa
+<one>:сад
+<two>:ӏуд
+<five>:гӏифуд
+<six>:йерхьид
+<seven>:ерид
+<eight>:муяд
+<nine>:ерчIуд
 
 LEXICON NumRoot2
-<three>:xibu
-<four>:jaq’u
+<three>:хьибуд
+<four>:якьуд
 
 LEXICON Ten
-<ten>:ic’u
+<ten>:йицӏуд
 
 LEXICON TeenInfl
-<teen>:c’a
+<teen>:цӏе
 
 LEXICON Twenty
-<twenty>:qːa
+<twenty>:къад
 
 LEXICON Forty
-<forty>:jaχc’ur
+<forty>:ягъцӏур
 
 LEXICON GrandRoot
-<hundred>:ʢʷerš
-<thousand>:aʁzur
+<hundred>:верш
+<thousand>:агъзур
 
 LEXICON CoordNum
-<coord>:꞊na
+<coord>:на
 
 LEXICON OddTensInfl
-<oddty>:n
-
-#LEXICON CardInfl
-#<card>:
+<oddty>:н
