@@ -1,7 +1,7 @@
-# .DEFAULT_GOAL := agul.analyzer.tr.hfst
-.DEFAULT_GOAL := clean_some
+.DEFAULT_GOAL := agul.analyzer.tr.hfst
 
 # GENERATE ANALYZER AND GENERATOR
+
 agul.analyzer.hfst: agul.generator.hfst
 	hfst-invert $< -o $@
 	
@@ -11,7 +11,9 @@ agul.generator.hfst: agul.lexd
 agul.lexd: $(wildcard agul.noun.lexd agul.num.lexd)
 	cat $^ > agul.lexd
 
+
 # GENERATE TRANSLITERATERS
+
 cy2la.transliterater.hfst: la2cy.transliterater.hfst
 	hfst-invert $< -o $@
 	
@@ -22,7 +24,8 @@ correspondence.hfst: correspondence
 	hfst-strings2fst -j correspondence -o $@
 	
 # GENERATE ANALYZER AND GENERATOR FOR TRANSCRIPTION
-agul.analyzer.tr.hfst: agul.generator.tr.hfst
+
+agul.analyzer.tr.hfst: agul.analyzer.tr.hfst 
 	hfst-invert $< -o $@
 	
 agul.generator.tr.hfst: agul.generator.hfst cy2la.transliterater.hfst
