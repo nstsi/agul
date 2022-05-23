@@ -63,16 +63,17 @@ analysis,form,mustpass,source,page,description
 дад<n><pl.erg><inter><ess>,дадаригӏ,pass,.,.,noun pl inter ess
 дад<n><pl.erg><inter><lat>,дадаригӏди,pass,.,.,noun pl inter lat
 дад<n><pl.erg><inter><elat>,дадаригӏас,pass,.,.,noun pl inter elat
-<num><five>:гӏифуд,pass,.,.,num five
-<num><three>:хьибуд,pass,.,.,num three
-<num><three><twenty>:хьибудкъад,pass,.,.,num sixty
-<num><three><twenty><link><coord>:хьибудкъаднна,pass,.,.,num seventy
-<num><ten>:йицӏуд,pass,.,.,num ten
-<num><teen><five>:цӏегӏифуд,pass,.,.,num fifteen
-<num><teen><three>:цӏехьибуд,pass,.,.,num thirteen
-<num><twenty>:къад,pass,.,.,num twenty
-<num><twenty><link><coord>:къаднна,pass,.,.,num thirty
-<num><forty>:ягъцӏур,pass,.,.,num forty
-<num><forty><coord>:ягъцӏурна,pass,.,.,num fifty
-<num><hundred>:верш,pass,.,.,num hundred
-<num><hundred><coord>:вершна,pass,.,.,num hundred and something
+analysis,form,mustpass,source,page,description
+<num><five>,гӏифуд,pass,.,.,num five
+<num><three>,хьибуд,pass,.,.,num three
+<num><three><twenty>,хьибудкъад,pass,.,.,num sixty
+<num><three><twenty><link><coord>,хьибудкъаднна,pass,.,.,num seventy
+<num><ten>,йицӏуд,pass,.,.,num ten
+<num><teen><five>,цӏегӏифуд,pass,.,.,num fifteen
+<num><teen><three>,цӏехьибуд,pass,.,.,num thirteen
+<num><twenty>,къад,pass,.,.,num twenty
+<num><twenty><link><coord>,къаднна,pass,.,.,num thirty
+<num><forty>,ягъцӏур,pass,.,.,num forty
+<num><forty><coord>,ягъцӏурна,pass,.,.,num fifty
+<num><hundred>,верш,pass,.,.,num hundred
+<num><hundred><coord>,вершна,pass,.,.,num hundred and something
