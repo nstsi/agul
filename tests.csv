@@ -64,8 +64,8 @@ analysis,form,mustpass,source,page,description
 дад<n><pl.erg><inter><lat>,дадаригӏди,pass,Ramazanov 2014,121,noun pl inter lat
 дад<n><pl.erg><inter><elat>,дадаригӏас,pass,Ramazanov 2014,121,noun pl inter elat
 analysis,form,mustpass,source,page,description
-<num><five>,гӏифуд,pass,https://agullang.ru/,num five
-<num><three>,хьибуд,pass,https://agullang.ru/,num three
+<num><five>,гӏифуд,pass,https://agullang.ru/,.,num five
+<num><three>,хьибуд,pass,https://agullang.ru/,.,num three
 <num><three><twenty>,хьибудкъад,pass,Maisak 2021,.,num sixty
 <num><three><twenty><link><coord>,хьибудкъаднна,pass,Maisak 2021,.,num seventy
 <num><ten>,йицӏуд,pass,https://agullang.ru/,.,num ten
