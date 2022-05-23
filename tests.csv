@@ -1,79 +1,79 @@
 analysis,form,mustpass,source,page,description
-дад<n><sg.nom>,дад,pass,.,.,noun sg nom
-дад<n><sg.erg>,дада,pass,.,.,noun sg erg
-дад<n><sg.erg><gen>,дадан,pass,.,.,noun sg gen
-дад<n><sg.erg><dat>,дадас,pass,.,.,noun sg
-дад<n><sg.erg><instr>,дадалди,pass,.,.,noun sg dat
-дад<n><sg.erg><com1>,дадафай,pass,.,.,noun sg com1
-дад<n><sg.erg><com2>,дадахъай,pass,.,.,noun sg com2
-дад<n><sg.erg><com3>,дадахъай,pass,.,.,noun sg com3
-дад<n><sg.erg><apud><ess>,дадаф,pass,.,.,noun sg apud ess
-дад<n><sg.erg><apud><lat>,дадафди,pass,.,.,noun sg apud lat
-дад<n><sg.erg><apud><elat>,дадафас,pass,.,.,noun sg apud elat
-дад<n><sg.erg><ante><ess>,дадагь,pass,.,.,noun sg ante ess
-дад<n><sg.erg><ante><lat>,дадагьди,pass,.,.,noun sg ante lat
-дад<n><sg.erg><ante><elat>,дадагьас,pass,.,.,noun sg ante elat
-дад<n><sg.erg><post><ess>,дадахъ,pass,.,.,noun sg post ess
-дад<n><sg.erg><post><lat>,дадахъди,pass,.,.,noun sg post lat
-дад<n><sg.erg><post><elat>,дадахъас,pass,.,.,noun sg post elat
-дад<n><sg.erg><sub><ess>,дадакк,pass,.,.,noun sg sub ess
-дад<n><sg.erg><sub><lat>,дадаккди,pass,.,.,noun sg sub lat
-дад<n><sg.erg><sub><elat>,дадаккас,pass,.,.,noun sg sub elat
-дад<n><sg.erg><loc><ess>,дадак,pass,.,.,noun sg loc ess
-дад<n><sg.erg><loc><lat>,дадакди,pass,.,.,noun sg loc lat
-дад<n><sg.erg><loc><elat>,дадакас,pass,.,.,noun sg loc elat
-дад<n><sg.erg><in><ess>,дадаӏ,pass,.,.,noun sg in ess
-дад<n><sg.erg><in><lat>,дадаӏди,pass,.,.,noun sg in lat
-дад<n><sg.erg><in><elat>,дадаӏас,pass,.,.,noun sg in elat
-дад<n><sg.erg><super><ess>,дадал,pass,.,.,noun sg super ess
-дад<n><sg.erg><super><lat>,дадалди,pass,.,.,noun sg super lat
-дад<n><sg.erg><super><elat>,дадалас,pass,.,.,noun sg super elat
-дад<n><sg.erg><inter><ess>,дадагӏ,pass,.,.,noun sg inter ess
-дад<n><sg.erg><inter><lat>,дадагӏди,pass,.,.,noun sg inter lat
-дад<n><sg.erg><inter><elat>,дадагӏас,pass,.,.,noun sg inter elat
-дад<n><pl.nom>,дадар,pass,.,.,noun pl nom
-дад<n><pl.erg>,дадари,pass,.,.,noun pl erg
-дад<n><pl.erg><gen>,дадарин,pass,.,.,noun pl gen
-дад<n><pl.erg><dat>,дадарис,pass,.,.,noun pl dat
-дад<n><pl.erg><instr>,дадарилди,pass,.,.,noun pl instr
-дад<n><pl.erg><com1>,дадарифай,pass,.,.,noun pl com1
-дад<n><pl.erg><com2>,дадарихъай,pass,.,.,noun pl com2
-дад<n><pl.erg><com3>,дадарихъай,pass,.,.,noun pl com3
-дад<n><pl.erg><apud><ess>,дадариф,pass,.,.,noun pl apud ess
-дад<n><pl.erg><apud><lat>,дадарифди,pass,.,.,noun pl apud lat
-дад<n><pl.erg><apud><elat>,дадарифас,pass,.,.,noun pl apud elat
-дад<n><pl.erg><ante><ess>,дадаригь,pass,.,.,noun pl ante ess
-дад<n><pl.erg><ante><lat>,дадаригьди,pass,.,.,noun pl ante lat
-дад<n><pl.erg><ante><elat>,дадаригьас,pass,.,.,noun pl ante elat
-дад<n><pl.erg><post><ess>,дадарихъ,pass,.,.,noun pl post ess
-дад<n><pl.erg><post><lat>,дадарихъди,pass,.,.,noun pl post lat
-дад<n><pl.erg><post><elat>,дадарихъас,pass,.,.,noun pl post elat
-дад<n><pl.erg><sub><ess>,дадарикк,pass,.,.,noun pl sub ess
-дад<n><pl.erg><sub><lat>,дадариккди,pass,.,.,noun pl sub lat
-дад<n><pl.erg><sub><elat>,дадариккас,pass,.,.,noun pl sub elat
-дад<n><pl.erg><loc><ess>,дадарик,pass,.,.,noun pl loc ess
-дад<n><pl.erg><loc><lat>,дадарикди,pass,.,.,noun pl loc lat
-дад<n><pl.erg><loc><elat>,дадарикас,pass,.,.,noun pl loc elat
-дад<n><pl.erg><in><ess>,дадариӏ,pass,.,.,noun pl in ess
-дад<n><pl.erg><in><lat>,дадариӏди,pass,.,.,noun pl in lat
-дад<n><pl.erg><in><elat>,дадариӏас,pass,.,.,noun pl in elat
-дад<n><pl.erg><super><ess>,дадарил,pass,.,.,noun pl super ess
-дад<n><pl.erg><super><lat>,дадарилди,pass,.,.,noun pl super lat
-дад<n><pl.erg><super><elat>,дадарилас,pass,.,.,noun pl super elat
-дад<n><pl.erg><inter><ess>,дадаригӏ,pass,.,.,noun pl inter ess
-дад<n><pl.erg><inter><lat>,дадаригӏди,pass,.,.,noun pl inter lat
-дад<n><pl.erg><inter><elat>,дадаригӏас,pass,.,.,noun pl inter elat
+дад<n><sg.nom>,дад,pass,https://agullang.ru/,.,noun sg nom
+дад<n><sg.erg>,дада,pass,https://agullang.ru/,.,noun sg erg
+дад<n><sg.erg><gen>,дадан,pass,Ramazanov 2014,112,noun sg gen
+дад<n><sg.erg><dat>,дадас,pass,Ramazanov 2014,113,noun sg
+дад<n><sg.erg><instr>,дадалди,pass,Ramazanov 2014,114,noun sg dat
+дад<n><sg.erg><com1>,дадафай,pass,Ramazanov 2014,116,noun sg com1
+дад<n><sg.erg><com2>,дадахъай,pass,Ramazanov 2014,116,noun sg com2
+дад<n><sg.erg><com3>,дадагӏай,pass,Ramazanov 2014,116,noun sg com3
+дад<n><sg.erg><apud><ess>,дадаф,pass,Ramazanov 2014,120,noun sg apud ess
+дад<n><sg.erg><apud><lat>,дадафди,pass,Ramazanov 2014,121,noun sg apud lat
+дад<n><sg.erg><apud><elat>,дадафас,pass,Ramazanov 2014,121,noun sg apud elat
+дад<n><sg.erg><ante><ess>,дадагь,pass,Ramazanov 2014,120,noun sg ante ess
+дад<n><sg.erg><ante><lat>,дадагьди,pass,Ramazanov 2014,121,noun sg ante lat
+дад<n><sg.erg><ante><elat>,дадагьас,pass,Ramazanov 2014,121,noun sg ante elat
+дад<n><sg.erg><post><ess>,дадахъ,pass,Ramazanov 2014,120,noun sg post ess
+дад<n><sg.erg><post><lat>,дадахъди,pass,Ramazanov 2014,121,noun sg post lat
+дад<n><sg.erg><post><elat>,дадахъас,pass,Ramazanov 2014,121,noun sg post elat
+дад<n><sg.erg><sub><ess>,дадакк,pass,Ramazanov 2014,120,noun sg sub ess
+дад<n><sg.erg><sub><lat>,дадаккди,pass,Ramazanov 2014,121,noun sg sub lat
+дад<n><sg.erg><sub><elat>,дадаккас,pass,Ramazanov 2014,121,noun sg sub elat
+дад<n><sg.erg><loc><ess>,дадак,pass,Ramazanov 2014,120,noun sg loc ess
+дад<n><sg.erg><loc><lat>,дадакди,pass,Ramazanov 2014,121,noun sg loc lat
+дад<n><sg.erg><loc><elat>,дадакас,pass,Ramazanov 2014,121,noun sg loc elat
+дад<n><sg.erg><in><ess>,дадаӏ,pass,Ramazanov 2014,120,noun sg in ess
+дад<n><sg.erg><in><lat>,дадаӏди,pass,Ramazanov 2014,121,noun sg in lat
+дад<n><sg.erg><in><elat>,дадаӏас,pass,Ramazanov 2014,121,noun sg in elat
+дад<n><sg.erg><super><ess>,дадал,pass,Ramazanov 2014,120,noun sg super ess
+дад<n><sg.erg><super><lat>,дадалди,pass,Ramazanov 2014,121,noun sg super lat
+дад<n><sg.erg><super><elat>,дадалас,pass,Ramazanov 2014,121,noun sg super elat
+дад<n><sg.erg><inter><ess>,дадагӏ,pass,Ramazanov 2014,120,noun sg inter ess
+дад<n><sg.erg><inter><lat>,дадагӏди,pass,Ramazanov 2014,121,noun sg inter lat
+дад<n><sg.erg><inter><elat>,дадагӏас,pass,Ramazanov 2014,121,noun sg inter elat
+дад<n><pl.nom>,дадар,pass,https://agullang.ru/,.,noun pl nom
+дад<n><pl.erg>,дадари,pass,Ramazanov 2014,125,noun pl erg
+дад<n><pl.erg><gen>,дадарин,pass,Ramazanov 2014,112,noun pl gen
+дад<n><pl.erg><dat>,дадарис,pass,Ramazanov 2014,113,noun pl dat
+дад<n><pl.erg><instr>,дадарилди,pass,Ramazanov 2014,114,noun pl instr
+дад<n><pl.erg><com1>,дадарифай,pass,Ramazanov 2014,116,noun pl com1
+дад<n><pl.erg><com2>,дадарихъай,pass,Ramazanov 2014,116,noun pl com2
+дад<n><pl.erg><com3>,дадарихъай,pass,Ramazanov 2014,116,noun pl com3
+дад<n><pl.erg><apud><ess>,дадариф,pass,Ramazanov 2014,120,noun pl apud ess
+дад<n><pl.erg><apud><lat>,дадарифди,pass,Ramazanov 2014,121,noun pl apud lat
+дад<n><pl.erg><apud><elat>,дадарифас,pass,Ramazanov 2014,121,noun pl apud elat
+дад<n><pl.erg><ante><ess>,дадаригь,pass,Ramazanov 2014,120,noun pl ante ess
+дад<n><pl.erg><ante><lat>,дадаригьди,pass,Ramazanov 2014,121,noun pl ante lat
+дад<n><pl.erg><ante><elat>,дадаригьас,pass,Ramazanov 2014,121,noun pl ante elat
+дад<n><pl.erg><post><ess>,дадарихъ,pass,Ramazanov 2014,120,noun pl post ess
+дад<n><pl.erg><post><lat>,дадарихъди,pass,Ramazanov 2014,121,noun pl post lat
+дад<n><pl.erg><post><elat>,дадарихъас,pass,Ramazanov 2014,121,noun pl post elat
+дад<n><pl.erg><sub><ess>,дадарикк,pass,Ramazanov 2014,120,noun pl sub ess
+дад<n><pl.erg><sub><lat>,дадариккди,pass,Ramazanov 2014,121,noun pl sub lat
+дад<n><pl.erg><sub><elat>,дадариккас,pass,Ramazanov 2014,121,noun pl sub elat
+дад<n><pl.erg><loc><ess>,дадарик,pass,Ramazanov 2014,120,noun pl loc ess
+дад<n><pl.erg><loc><lat>,дадарикди,pass,Ramazanov 2014,121,noun pl loc lat
+дад<n><pl.erg><loc><elat>,дадарикас,pass,Ramazanov 2014,121,noun pl loc elat
+дад<n><pl.erg><in><ess>,дадариӏ,pass,Ramazanov 2014,120,noun pl in ess
+дад<n><pl.erg><in><lat>,дадариӏди,pass,Ramazanov 2014,121,noun pl in lat
+дад<n><pl.erg><in><elat>,дадариӏас,pass,Ramazanov 2014,121,noun pl in elat
+дад<n><pl.erg><super><ess>,дадарил,pass,Ramazanov 2014,120,noun pl super ess
+дад<n><pl.erg><super><lat>,дадарилди,pass,Ramazanov 2014,121,noun pl super lat
+дад<n><pl.erg><super><elat>,дадарилас,pass,Ramazanov 2014,121,noun pl super elat
+дад<n><pl.erg><inter><ess>,дадаригӏ,pass,Ramazanov 2014,120,noun pl inter ess
+дад<n><pl.erg><inter><lat>,дадаригӏди,pass,Ramazanov 2014,121,noun pl inter lat
+дад<n><pl.erg><inter><elat>,дадаригӏас,pass,Ramazanov 2014,121,noun pl inter elat
 analysis,form,mustpass,source,page,description
-<num><five>,гӏифуд,pass,.,.,num five
-<num><three>,хьибуд,pass,.,.,num three
-<num><three><twenty>,хьибудкъад,pass,.,.,num sixty
-<num><three><twenty><link><coord>,хьибудкъаднна,pass,.,.,num seventy
-<num><ten>,йицӏуд,pass,.,.,num ten
-<num><teen><five>,цӏегӏифуд,pass,.,.,num fifteen
-<num><teen><three>,цӏехьибуд,pass,.,.,num thirteen
-<num><twenty>,къад,pass,.,.,num twenty
-<num><twenty><link><coord>,къаднна,pass,.,.,num thirty
-<num><forty>,ягъцӏур,pass,.,.,num forty
-<num><forty><coord>,ягъцӏурна,pass,.,.,num fifty
-<num><hundred>,верш,pass,.,.,num hundred
-<num><hundred><coord>,вершна,pass,.,.,num hundred and something
+<num><five>,гӏифуд,pass,https://agullang.ru/,num five
+<num><three>,хьибуд,pass,https://agullang.ru/,num three
+<num><three><twenty>,хьибудкъад,pass,Maisak 2021,.,num sixty
+<num><three><twenty><link><coord>,хьибудкъаднна,pass,Maisak 2021,.,num seventy
+<num><ten>,йицӏуд,pass,https://agullang.ru/,.,num ten
+<num><teen><five>,цӏегӏифуд,pass,Maisak 2021,.,num fifteen
+<num><teen><three>,цӏехьибуд,pass,Maisak 2021,.,num thirteen
+<num><twenty>,къад,pass,https://agullang.ru/,.,num twenty
+<num><twenty><link><coord>,къаднна,pass,Maisak 2021,.,num thirty
+<num><forty>,ягъцӏур,pass,https://agullang.ru/,.,num forty
+<num><forty><coord>,ягъцӏурна,pass,Maisak 2021,.,num fifty
+<num><hundred>,верш,pass,https://agullang.ru/,.,num hundred
+<num><hundred><coord>,вершна,pass,Maisak 2021,.,num hundred and something
