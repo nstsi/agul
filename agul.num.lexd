@@ -1,12 +1,12 @@
 PATTERNS
-NumRoot|NumRoot2|Ten # 1—10
-TeenInfl NumRoot|NumRoot2 # 11—19
-Twenty|Forty CoordNum? # 20 (something), 40 (something)
-Twenty OddTensInfl CoordNum? # 30 (something)
-NumRoot2 Twenty CoordNum? # 60 (something), 80 (something)
-Forty CoordNum CoordNum? # 50 (something)
-NumRoot2 Twenty OddTensInfl CoordNum? # 70, 90
-GrandRoot CoordNum? # hundreds (something) and thousands (something)
+[<num>:] NumRoot|NumRoot2|Ten # 1—10
+[<num>:] TeenInfl NumRoot|NumRoot2 # 11—19
+[<num>:] Twenty|Forty # 20, 40
+[<num>:] Twenty Link CoordNum # 30
+[<num>:] NumRoot2 Twenty # 60, 80
+[<num>:] Forty CoordNum # 50
+[<num>:] NumRoot2 Twenty Link CoordNum # 70, 90
+[<num>:] GrandRoot CoordNum? # hundreds (something) and thousands (something)
 
 LEXICON NumRoot
 <one>:сад
@@ -40,5 +40,5 @@ LEXICON GrandRoot
 LEXICON CoordNum
 <coord>:на
 
-LEXICON OddTensInfl
-<oddty>:н
+LEXICON Link
+<link>:н
