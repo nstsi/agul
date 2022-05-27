@@ -1,15 +1,15 @@
-.DEFAULT_GOAL := agul.analyser.hfst
+.DEFAULT_GOAL := agx.analyser.hfst
 
 # GENERATE analyser AND GENERATOR
 
-agul.analyser.hfst: agul.generator.hfst
+agx.analyser.hfst: agx.generator.hfst
 	hfst-invert $< -o $@
 	
-agul.generator.hfst: agul.lexd
+agx.generator.hfst: agx.lexd
 	lexd $< | hfst-txt2fst -o $@
 	
-agul.lexd: $(wildcard agul.noun.lexd agul.num.lexd)
-	cat $^ > agul.lexd
+agx.lexd: $(wildcard agx.noun.lexd agx.num.lexd)
+	cat $^ > agx.lexd
 
 
 # GENERATE TRANSLITERATERS
@@ -25,17 +25,17 @@ correspondence.hfst: correspondence
 	
 # GENERATE analyser AND GENERATOR FOR TRANSCRIPTION
 
-agul.analyser.tr.hfst: agul.analyser.hfst la2cy.transliterator.hfst
+agx.analyser.tr.hfst: agx.analyser.hfst la2cy.transliterator.hfst
 	hfst-invert $< -o $@
 	
-agul.generator.tr.hfst: agul.generator.hfst cy2la.transliterator.hfst
+agx.generator.tr.hfst: agx.generator.hfst cy2la.transliterator.hfst
 	hfst-compose $^ -o $@
 	
 # CREAT AND APPLY TESTS
 test.pass.txt: tests.csv
 	awk -F, '$$3 == "pass" {print $$1 ":" $$2}' $^ | sort -u > $@
 
-check: agul.generator.hfst test.pass.txt
+check: agx.generator.hfst test.pass.txt
 	bash compare.sh $< test.pass.txt
 	
 
