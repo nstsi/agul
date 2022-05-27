@@ -9,33 +9,33 @@ PATTERNS
 [<num>:] GrandRoot CoordNum? # hundreds (something) and thousands (something)
 
 LEXICON NumRoot
-<one>:сад
-<two>:ӏуд
-<five>:гӏифуд
-<six>:йерхьид
-<seven>:ерид
-<eight>:муяд
-<nine>:ерчIуд
+сад #1
+ӏуд #2
+гӏифуд #5
+йерхьид #6
+ерид #7
+муяд #8
+ерчIуд #9
 
 LEXICON NumRoot2
-<three>:хьибуд
-<four>:якьуд
+хьибуд #3
+якьуд #4
 
 LEXICON Ten
-<ten>:йицӏуд
+йицӏуд #10
 
 LEXICON TeenInfl
 <teen>:цӏе
 
 LEXICON Twenty
-<twenty>:къад
+къад #20
 
 LEXICON Forty
-<forty>:ягъцӏур
+ягъцӏур #40
 
 LEXICON GrandRoot
-<hundred>:верш
-<thousand>:агъзур
+верш #100
+агъзур #1000
 
 LEXICON CoordNum
 <coord>:на
