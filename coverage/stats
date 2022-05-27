@@ -1,0 +1,20 @@
+#!/bin/bash
+
+if [[ $# -lt 1 ]] || [[ ! -e "$1" ]]; then
+	echo "usage: $(basename "$0") AN.hfstol [TEXT...]" >&2
+	exit 1
+fi
+
+t="$1"
+shift
+
+echo "source	tokens+	tokens-	token-cov	types+	types-	types-cov"
+for f in "$@"; do
+	echo -n "$f	"
+	cat "$f" | sed 's@[][/<>]@\\\0@g' | hfst-proc -q "$t" | grep -o '\^[^$]*\$' | awk '
+	$0 ~ /\*/ { fail += 1; fail_h[$0] += 1; }
+	$0 !~ /\*/ { success += 1; success_h[$0] += 1; }
+	END {
+		print(success "\t" fail "\t" (success / (success+fail)) "\t" length(success_h) "\t" length(fail_h) "\t" (length(success_h) / (length(success_h) + length(fail_h))));
+	}'
+done
