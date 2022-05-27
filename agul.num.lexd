@@ -1,12 +1,12 @@
 PATTERNS
-[<num>:] NumRoot|NumRoot2|Ten # 1—10
-[<num>:] TeenInfl NumRoot|NumRoot2 # 11—19
-[<num>:] Twenty|Forty # 20, 40
-[<num>:] Twenty Link CoordNum # 30
-[<num>:] NumRoot2 Twenty # 60, 80
-[<num>:] Forty CoordNum # 50
-[<num>:] NumRoot2 Twenty Link CoordNum # 70, 90
-[<num>:] GrandRoot CoordNum? # hundreds (something) and thousands (something)
+NumRoot|NumRoot2|Ten [<num>:] # 1—10
+TeenInfl [<num>:] NumRoot|NumRoot2 # 11—19
+Twenty|Forty [<num>:] # 20, 40
+Twenty [<num>:] Link CoordNum # 30
+NumRoot2 Twenty [<num>:] # 60, 80
+Forty [<num>:] CoordNum # 50
+NumRoot2 Twenty [<num>:] Link CoordNum # 70, 90
+GrandRoot [<num>:] CoordNum? # hundreds (something) and thousands (something)
 
 LEXICON NumRoot
 сад #1
