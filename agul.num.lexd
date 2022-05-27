@@ -3,9 +3,9 @@ NumRoot|NumRoot2|Ten [<num>:] # 1—10
 TeenInfl [<num>:] NumRoot|NumRoot2 # 11—19
 Twenty|Forty [<num>:] # 20, 40
 Twenty [<num>:] Link CoordNum # 30
-NumRoot2 Twenty [<num>:] # 60, 80
+NumRoot2 [<num>:] Twenty [<num>:] # 60, 80
 Forty [<num>:] CoordNum # 50
-NumRoot2 Twenty [<num>:] Link CoordNum # 70, 90
+NumRoot2 [<num>:] Twenty [<num>:] Link CoordNum # 70, 90
 GrandRoot [<num>:] CoordNum? # hundreds (something) and thousands (something)
 
 LEXICON NumRoot
