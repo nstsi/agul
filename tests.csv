@@ -66,14 +66,14 @@ analysis,form,mustpass,source,page,description
 analysis,form,mustpass,source,page,description
 <num><five>,гӏифуд,pass,https://agullang.ru/,.,num five
 <num><three>,хьибуд,pass,https://agullang.ru/,.,num three
-<num><three><twenty>,хьибудкъад,pass,Maisak 2021,.,num sixty
-<num><three><twenty><link><coord>,хьибудкъаднна,pass,Maisak 2021,.,num seventy
+<num><three><twenty>,хьибудкъад,pass,Maisak 2021a,.,num sixty
+<num><three><twenty><link><coord>,хьибудкъаднна,pass,Maisak 2021a,.,num seventy
 <num><ten>,йицӏуд,pass,https://agullang.ru/,.,num ten
-<num><teen><five>,цӏегӏифуд,pass,Maisak 2021,.,num fifteen
-<num><teen><three>,цӏехьибуд,pass,Maisak 2021,.,num thirteen
+<num><teen><five>,цӏегӏифуд,pass,Maisak 2021a,.,num fifteen
+<num><teen><three>,цӏехьибуд,pass,Maisak 2021a,.,num thirteen
 <num><twenty>,къад,pass,https://agullang.ru/,.,num twenty
-<num><twenty><link><coord>,къаднна,pass,Maisak 2021,.,num thirty
+<num><twenty><link><coord>,къаднна,pass,Maisak 2021a,.,num thirty
 <num><forty>,ягъцӏур,pass,https://agullang.ru/,.,num forty
-<num><forty><coord>,ягъцӏурна,pass,Maisak 2021,.,num fifty
+<num><forty><coord>,ягъцӏурна,pass,Maisak 2021a,.,num fifty
 <num><hundred>,верш,pass,https://agullang.ru/,.,num hundred
-<num><hundred><coord>,вершна,pass,Maisak 2021,.,num hundred and something
+<num><hundred><coord>,вершна,pass,Maisak 2021a,.,num hundred and something
