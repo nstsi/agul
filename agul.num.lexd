@@ -9,33 +9,33 @@ NumRoot2 [<num>:] Twenty [<num>:] Link CoordNum # 70, 90
 GrandRoot [<num>:] CoordNum? # hundreds (something) and thousands (something)
 
 LEXICON NumRoot
-сад #1
-ӏуд #2
-гӏифуд #5
+сад 	#1
+ӏуд 	#2
+гӏифуд 	#5
 йерхьид #6
-ерид #7
-муяд #8
-ерчIуд #9
+ерид 	#7
+муяд 	#8
+ерчIуд 	#9
 
 LEXICON NumRoot2
-хьибуд #3
-якьуд #4
+хьибуд 	#3
+якьуд 	#4
 
 LEXICON Ten
-йицӏуд #10
+йицӏуд 	#10
 
 LEXICON TeenInfl
 <teen>:цӏе
 
 LEXICON Twenty
-къад #20
+къад 	#20
 
 LEXICON Forty
 ягъцӏур #40
 
 LEXICON GrandRoot
-верш #100
-агъзур #1000
+верш 	#100
+агъзур 	#1000
 
 LEXICON CoordNum
 <coord>:на
