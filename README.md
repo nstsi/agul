@@ -1,4 +1,4 @@
-# Bagvalal Morphology
+# Agul Morphology
 ## Background
 [Agul](https://en.wikipedia.org/wiki/Aghul_language) (agx) is a low-resource language from the Nakh-Daghestanian family.
 This repository contains a prototype for an Agul morphological analyzer. Currently it processes only nouns and numerals. 
