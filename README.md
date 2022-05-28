@@ -14,7 +14,7 @@ This parser a part of a larger project by the students of the [School of Linguis
 Morphological parsers of other Andic languages, made by my fellow students, can be found here:
 
 * [Bagvalal](https://github.com/ruthenian8/bagvalal)
-* [Andi](https://github.com/vbunt/andi)
+* [Abaza](https://github.com/dasharakelova/abaza_analyzer)
 * [Chamalal](https://github.com/ZinaBudilova/Chamalal_parser)
 * [Andi](https://github.com/vbunt/andi)
 
