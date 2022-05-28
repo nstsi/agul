@@ -28,7 +28,7 @@ The current work is based on the linguistic description of Bagvalal by T. A. Mai
 
 The corpus is an Agul translation of the Gospel of Luke made in 2005 by the Institute for Bible Translation.
 
-The text can be found at the [IBT site](https://ibtrussia.org/en/text?m=AGL&l=Luke.25&g=0), the preprocessed version can be found in the [corpus directory](https://github.com/nstsi/agul/tree/master/coverage/corpus), and the code for that preprocessing can the found in the corpus.ipynb.
+The text can be found at the [IBT site](https://ibtrussia.org/en/text?m=AGL&l=Luke.25&g=0), the preprocessed version can be found in the [corpus directory](https://github.com/nstsi/agul/tree/master/coverage/corpus), and the code for that preprocessing can the found in the [clean_corpus.ipynb](https://github.com/nstsi/agul/blob/master/preprocessing/clean_corpus.ipynb).
 
 ## Usage
 
