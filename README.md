@@ -11,7 +11,7 @@ You can cite the paper draft using one of the forms listed below:
 * Буракова А. Создание морфологического парсера для агульского языка в системе lexd и twol. НИУ ВШЭ. Москва, 2022. 16 с.
 
 This parser a part of a larger project by the students of the [School of Linguistics](https://ling.hse.ru/en/) at the NRU HSE that aims to provide digital tools for endangered languages.
-Morphological parsers of other Andic languages, made by my fellow students, can be found here:
+Morphological parsers of other Nakh-Daghestanian languages, made by my fellow students, can be found here:
 
 * [Bagvalal](https://github.com/ruthenian8/bagvalal)
 * [Abaza](https://github.com/dasharakelova/abaza_analyzer)
