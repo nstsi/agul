@@ -51,18 +51,4 @@ Caucasiologist transcription version
 make agx.analyser.tr.hfst
 ```
 
-### Running the analyzers
-View the statistics:
-```bash
-make check-coverage-stats
-```
-* cd to corpora & run make \*corpus name\*.analyzed to analyze with the cyrillic transducer
-* cd to corpora & run make \*corpus name\*.tr.analyzed to analyze with the IPA transducer
-
-### Examples:
-check
-```bash
-make check-coverage-stats
-```
-
 Current performance: Naive Coverage ~15%
